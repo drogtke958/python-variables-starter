@@ -27,7 +27,7 @@
 
 
 
-# Part 3 / F-Strings
+# Part 3 / Working with f-strings
 # Build an f-string that displays a custom greeting to your best friend
 # Build an f-string that tells us your first name and the name of the school you attend
 # Build an f-string that tells us in a sentence what the value of pi is.
