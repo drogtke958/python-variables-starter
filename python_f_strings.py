@@ -6,7 +6,7 @@
 car1 = "Chevrolet Malibu"
 car2 = "Honda Accord"
 
-# Is the value on the next line of code an integer or a floating-point number (float)?
+# Is the value on the next line of code an integer or a floating-point number (AKA a float)?
 down_payment = 2500.0000000
 
 # Predict the output
