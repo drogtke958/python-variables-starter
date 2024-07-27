@@ -5,6 +5,7 @@
 # Demonstrate in this script that you know how to
 # define (create) Python variables and
 # assign string and numeric values to your variables
+# build an f-string
 
 # Remember:
 # A string is just a piece of text (Examples: Mikey, Traverse City, hot dog)
