@@ -12,8 +12,8 @@
 # A float (AKA floating-point number) is a number that does have a decimal point (Example: 3.2537)
 
 # Part 1 / Strings
-# Define a variable called school and assign it the string value Career Tech
-# Define a variable called favorite_singer and assign it the string value that is your favorite singer
+# Define a variable called school and assign it the string value Career Tech (using a pair of single quotes)
+# Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
 # Define a variable called greeting and assign it a string value you'd use to greet someone
 
 
