@@ -3,6 +3,7 @@
 # Building Python F-Strings 
 
 # How do you create a string in Python?
+# How many ways are there to define/create a string in Python?
 car1 = "Chevrolet Malibu"
 car2 = "Honda Accord"
 mileage = 6
