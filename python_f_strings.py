@@ -17,5 +17,6 @@ print(down_payment)
 
 # Predict the output
 # How is the f-string set up differently in the examples below?
+# What does f-string actually stand for?
 print(f'Last Saturday, I went to two car dealers and test drove a {car1} and a {car2}.')
 print(f"I needed ${down_payment:,.2f} for a down payment on the {car2}, which had only {mileage} miles on it.")
