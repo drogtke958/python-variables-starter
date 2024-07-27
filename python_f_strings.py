@@ -1,9 +1,6 @@
-# Programmer: Bruce Provencher
-# Date: 13 AUG 20XX
-# Project: Python F-Strings 
-
-# A Python-style comment
-
+# Bruce Provencher
+# 13 AUG 20XX
+# Python F-Strings 
 
 car1 = "Chevrolet"
 car2 = "Honda"
