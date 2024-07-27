@@ -1,9 +1,9 @@
 # Describing multiple houses using variables
 
 # Describing House #1
-color1 = 'yellow'
-length1 = 125
-width1 = 80
+color1 = 'light gray'
+length1 = 125.50
+width1 = 80.75
 num_windows1 = 6
 num_doors1 = 4
 num_stories1 = 3
