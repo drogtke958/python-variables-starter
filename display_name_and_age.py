@@ -1,7 +1,7 @@
 '''
 Programmer: Bruce Provencher
-Date: 07 SEP 2020
-Project: Using the Python Print Function
+Date: 07 SEP 20XX
+Project: Python Print Function
 '''
 
 # Remember: A variable is just a container that holds
@@ -9,16 +9,14 @@ Project: Using the Python Print Function
 
 # Define a variable called first_name and
 # store the value 'Melissa' inside it
-first_name = 'Melissa' # Don't forget the quotation marks around the name!
+first_name = 'Melissa' # Assigning a string to the variable first_name
 # first_name = "Melissa"
 # first_name = "Mike"
 
-# Define a second variable named age and
-# assign the value 24 to it
+# Assigning the value of 24 to the variable age
 age = 24
 
-# Use the print ( ) function to display a sentence
-# containing the person's name and age
+# Predict the output
 print(f'{first_name} is {age} years old.')
 print(f"{first_name} is {age} years old.")
 
