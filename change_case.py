@@ -1,3 +1,3 @@
-name = "Jeff Bezos"
-print(name.upper())
-print(name.lower())
+full_name = "Jeff Bezos"
+print(full_name.upper())
+print(full_name.lower())
