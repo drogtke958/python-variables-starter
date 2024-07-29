@@ -4,6 +4,7 @@
 
 - Read Chapter 2 (Variables & Simple Data Types) in the *Python Crash Course* book
 - Answer the following questions and be prepared to discuss your answers with your teacher
+- Please use correct spelling and grammar
 
 ## Questions
 
