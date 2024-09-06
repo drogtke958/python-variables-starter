@@ -8,13 +8,12 @@
 ## Questions
 
 1. In Python, what symbol do you use to assign a value to a variable?
-    -  Answer here
+    -  You use the equal sign(=)
 
 2. In plain English, explain the difference between **string data** data and **numeric data**.
-    -  Answer here
-
+    -  The difference is that numeric data can only contain numbers while string data can contain numbers, letters, and other characters.
 
 3. List 2 - 3 guidelines to keep in mind when naming your Python variables.
     -  Write the name of your Python variable in lowercase
-    -  Answer here
-    -  Answer here
+    -  Use short discriptive names
+    -  Use underscores instead of spaces
