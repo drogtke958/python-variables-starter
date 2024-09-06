@@ -16,6 +16,7 @@
 # Define a variable called school and assign it the string value Career Tech (using a pair of single quotes)
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
+# Use the print function to print the value of one of three variables you created in Part 1
 
 
 
@@ -24,11 +25,12 @@
 # Define a variable called my_age and assign it your age as an integer
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
+# Use the print function to print the value of one of three variables you created in Part 2
 
 
 
 
-# Part 3 / Using the Python print Function
+# Part 3 / Working with the print ( ) Function
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
