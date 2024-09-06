@@ -6,7 +6,7 @@
 
 ## Overview
 
-Write a script that shows you know how to work with:
+Add a Python script named `variables101.py` to your repository that shows you know how to work with:
  - string variables
  - numeric variables (integers and floats)
  - the Python `print( )` function
