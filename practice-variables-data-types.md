@@ -32,9 +32,9 @@ Write a script that shows you know how to work with:
   -  assign as an integer the number of people in your immediate family to a variable named `num_family_members`
   -  assign as a float how much you earn per hour at your job; name the variable `hourly_wage`
   -  use the `print ( )` function on three separate lines to print:
-    - your age
-    - the number of people in your family
-    - how much you get paid per hour at your job
+    -   your age
+    -   the number of people in your family
+    -   how much you get paid per hour at your job
 
 - Under **String Variables**:
   -  assign your last name to a variable named `last_name`
