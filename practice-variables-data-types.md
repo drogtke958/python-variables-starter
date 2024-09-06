@@ -2,7 +2,7 @@
 
 ## Submitting Your Work
  - Save your files to a new GitHub repo named: ***variables-intro***
- - Submit on Google Classroom the web address (URL) that points to your GitHub **variables-intro** repository
+ - Copy and then submit on Google Classroom the web address (URL) that points to your GitHub **variables-intro** repository
 
 ## Overview
 
