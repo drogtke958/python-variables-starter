@@ -9,7 +9,7 @@
 
 1. In Python, what symbol do you use to add a comment to your code?
     -  Answer here
-2. In plain English, explain the difference between **string** data and **numeric** data.
+2. In plain English, explain the difference between **string data** data and **numeric data**.
     -  Answer here
 
 
