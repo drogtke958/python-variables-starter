@@ -23,7 +23,7 @@
 # Part 2 / Numeric Data (Numbers)
 # Define a variable called my_age and assign it your age as an integer
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
-# Define a variable called room_length and assign it a value of 20.75 (a float/floating-point number)
+# Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 
 
 
