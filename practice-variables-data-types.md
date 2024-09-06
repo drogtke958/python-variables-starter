@@ -35,11 +35,11 @@ Add a Python script named `variables101.py` to your repository that shows you kn
 - Under **String Variables**:
   -  assign your last name to a variable named `last_name`
   -  assign the name of your sending school (or Career Tech) to a variable named `my_school`
-  -  assign the name of one of your pets to a variable `my_pet`
+  -  assign the name of one of your friends to a variable `my_friend`
   -  use the `print ( )` function on three separate lines to print:
      - your last name
      - the name of your school
-     - the name of your pet
+     - your friend's name
 
 
 
