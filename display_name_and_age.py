@@ -17,6 +17,7 @@ age = 24
 
 # Predict the output
 print(f'{first_name} is {age} years old.')
+print(f'The new student from Bellaire is {first_name} {last_name}, right?')
 
 
 
