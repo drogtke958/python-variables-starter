@@ -13,7 +13,7 @@ last_name = "Barlow" # You can also use a pair of double quotes to assign a stri
 
 
 # Assigning the value of 24 to the variable age
-age = 24
+age = 17
 
 # Predict the output
 print(f'{first_name} is {age} years old.')
