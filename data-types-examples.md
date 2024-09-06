@@ -1,4 +1,4 @@
-| Variable Type | Example           |
+| Data Type     | Example           |
 |---------------|-------------------|
 | Integer       | `num = 10`        |
 | Float         | `price = 78.50`  |
