@@ -2,7 +2,7 @@
 
 ## Submitting Your Work
  - Save your files to a new GitHub repo named: ***variables-intro***
- - Submit on Google Classroom the web address (URL) that points to your **variables-intro** repository
+ - Submit on Google Classroom the web address (URL) that points to your GitHub **variables-intro** repository
 
 ## Overview
 
@@ -11,10 +11,6 @@ Write a script that shows you know how to work with:
  - numeric variables (integers and floats)
  - the Python `print( )` function
 
-## Helpful Resources
-
-- Look at the 
- 
 ## Directions
 
  - Add a comment block to the top of your script, like so:
@@ -38,15 +34,14 @@ Write a script that shows you know how to work with:
 
 - Under **String Variables**:
   -  assign your last name to a variable named `last_name`
-  -  assign the name of your sending school to a variable named `sending_school`
+  -  assign the name of your sending school (or Career Tech) to a variable named `my_school`
   -  assign the name of one of your pets to a variable `my_pet`
+  -  use the `print ( )` function on three separate lines to print:
+     - your last name
+     - the name of your school
+     - the name of your pet
 
 
-> ```python
-> # Printing my last name
-> print(f'My last name is {last_name}.')
->
-> # Printing my age
-> print(f"I am {age} years old.")
+
 
 
