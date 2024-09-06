@@ -5,7 +5,7 @@
 
 # Remember: A variable is just a named location in your computer's memory
 # You store a piece of data at that named location for future use
-# You can replace (overwrite) the value you store at a named location in memory with a different value (an updated value)
+# You can replace (overwrite) the value you store at a named location in memory with a different value (such as an updated value)
 
 # Define a variable called first_name and
 # store the value 'Melissa' at that named location in your computer's memory
