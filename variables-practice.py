@@ -1,5 +1,5 @@
-# Student name
-# 04 SEP 2024
+# Keily Drogt
+# 06 SEP 2024
 # Variables Practice
 
 # Demonstrate in this script that you know how to:
