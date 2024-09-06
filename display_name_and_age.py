@@ -3,20 +3,20 @@
 # Date: 07 SEP 20XX
 # Variables Demo
 
-# Remember: A variable is just a container that holds
-# (stores) a piece of data, such as a name or someone's age
+# Remember: A variable is just a named location in your computer's memory
+# You store a piece of data at that named location for future use
 
 # Define a variable called first_name and
-# store the value 'Melissa' inside it
+# store the value 'Melissa' at that named location in your computer's memory
 first_name = 'Melissa' # Assigning a string to the variable first_name
-# first_name = "Melissa"
-# first_name = "Mike"
+last_name = "Barlow" # You can also use a pair of double quotes to assign a string to a variable
+
 
 # Assigning the value of 24 to the variable age
 age = 24
 
 # Predict the output
 print(f'{first_name} is {age} years old.')
-print(f"{first_name} is {age} years old.")
+
 
 
