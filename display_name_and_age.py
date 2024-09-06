@@ -1,8 +1,7 @@
-'''
-Programmer: Bruce Provencher
-Date: 07 SEP 20XX
-Project: Python Print Function
-'''
+
+# Bruce Provencher
+# Date: 07 SEP 20XX
+# Variables Demo
 
 # Remember: A variable is just a container that holds
 # (stores) a piece of data, such as a name or someone's age
