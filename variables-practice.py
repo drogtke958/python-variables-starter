@@ -31,6 +31,7 @@
 
 
 # Part 3 / Working with the print ( ) Function
+# Create three different variables, one for each piece of data described below
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
