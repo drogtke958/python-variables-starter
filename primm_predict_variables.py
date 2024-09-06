@@ -1,7 +1,7 @@
 
 # Bruce Provencher
 # Date: 07 SEP 20XX
-# Variables Examples
+# Predict The Output 
 
 # Remember: A variable is just a named location in your computer's memory
 # You store a piece of data at that named location for future use
