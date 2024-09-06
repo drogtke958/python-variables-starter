@@ -9,8 +9,8 @@
 
 # Remember:
 # A string is just a piece of text (Examples: Mikey, Traverse City, hot dog)
-# An integer is a number that doesn't have a decimal point (Example: 42)
-# A float (AKA floating-point number) is a number that DOES have a decimal point (Example: 3.2537)
+# An integer is a number -- a numeric value -- that doesn't have a decimal point (Example: 42)
+# A float (AKA floating-point number) is a number -- a numeric value -- that DOES have a decimal point (Example: 3.2537)
 
 # Part 1 / Strings
 # Define a variable called school and assign it the string value Career Tech (using a pair of single quotes)
