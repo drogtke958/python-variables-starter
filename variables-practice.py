@@ -1,6 +1,6 @@
 # Student name
 # 04 SEP 2024
-# Variables & Data Types Practice
+# Variables Practice
 
 # Demonstrate in this script that you know how to:
 # define (create) Python variables and
