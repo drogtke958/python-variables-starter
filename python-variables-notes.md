@@ -7,8 +7,9 @@
 
 ## Questions
 
-1. In Python, what symbol do you use to add a comment to your code?
+1. In Python, what symbol do you use to assign a value to a variable?
     -  Answer here
+
 2. In plain English, explain the difference between **string data** data and **numeric data**.
     -  Answer here
 
