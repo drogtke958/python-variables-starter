@@ -3,6 +3,7 @@
 # Variables Practice
 
 # Demonstrate in this script that you know how to:
+# add a comment block to the top of your Python script
 # define (create) Python variables and
 # assign string and numeric values to your variables
 # use the Python print function to print the value you assigned to a variable on your computer screen
