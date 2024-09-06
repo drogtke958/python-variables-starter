@@ -12,7 +12,8 @@ first_name = 'Melissa' # Assigning a string to the variable first_name
 last_name = "Barlow" # You can also use a pair of double quotes to assign a string to a variable
 
 
-# Assigning the value of 24 to the variable age
+# Assigning the numeric value of 24 to the variable age
+# A numeric value is just a fancy word for number
 age = 17
 
 # Predict the output
