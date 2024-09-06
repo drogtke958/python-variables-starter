@@ -17,7 +17,7 @@ Add a Python script named `variables101.py` to your repository that shows you kn
  ```python
 # Mike Jenkins
 # 03 SEP 20XX
-# Variables Intro
+# Variables 101
 ```
 - Use comments to divide your script into two sections
    - Numeric Variables
