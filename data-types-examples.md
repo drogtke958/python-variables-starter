@@ -1,7 +1,7 @@
 | Data Type     | Example           |
 |---------------|-------------------|
 | Integer (numeric)       | `num = 10`        |
-| Float  (numberic)       | `price = 78.50`  |
+| Float  (numeric)       | `price = 78.50`  |
 | String        | `greeting = 'Good morning!'` |
 | Boolean       | `is_us_citizen = True` |
 | List          | `fruits = ['apple', 'grapes', 'orange', 'banana']` |
