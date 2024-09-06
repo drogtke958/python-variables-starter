@@ -5,7 +5,7 @@
 # Demonstrate in this script that you know how to:
 # define (create) Python variables and
 # assign string and numeric values to your variables
-# use the Python print function to print the value stored in a variable on your computer
+# use the Python print function to print the value you assigned to a variable on your computer screen
 
 # Remember:
 # A string is just a piece of text (Examples: Mikey, Traverse City, hot dog)
